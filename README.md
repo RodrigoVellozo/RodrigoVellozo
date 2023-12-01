@@ -1,6 +1,6 @@
 ## Hi there, i'm Rodrigo Vellozo 🤓
 
-- 💼 I'm currently work with frontend
+- 💼 Nowadays i'm currently work with frontend
 - 🖊 I’m currently learning: React and .Net 
 - 😄 Pronouns: he/him
 
